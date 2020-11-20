@@ -1,3 +1,3 @@
 # Tiurs_Library
 
-A repo for NAndo and DAn
+A repo for Nando and Dan
