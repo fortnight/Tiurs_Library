@@ -34,4 +34,10 @@ public class App
         String fileExtension = myApp.extractExtensionFromArgFile(fileName);
         System.out.println(fileExtension);
     }
+	
+	public static String needle(String input)
+	{
+		input = input+("needle");
+		return input;
+	}
 }
