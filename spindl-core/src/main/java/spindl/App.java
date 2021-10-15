@@ -10,4 +10,10 @@ public class App
     {
         System.out.println( "Hello World!" );
     }
+	
+	public static String needle(String input)
+	{
+		input = input+("needle");
+		return input;
+	}
 }
